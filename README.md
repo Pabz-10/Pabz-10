@@ -2,9 +2,8 @@ Hey there, nice to meet you! 👋
 I'm Pabil Adhikari.
 
 **Who am I?**
-- New grad SWE @ SFU 🎓
-- BSc in Molecular Biology & Biochemistry + Certificate in Computing Science
-- Prev. Undergraduate Researcher @ SFU · Now looking for new grad SWE roles 👨‍💻
+- New grad  BSc in Molecular Biology & Biochemistry + Certificate in Computing Science @ SFU 🎓
+- Prev. Undergraduate Researcher turned Software Engineer · Looking for new grad SWE roles 👨‍💻
 - Based in Vancouver, BC 🇨🇦
 
 **Learn more?**
