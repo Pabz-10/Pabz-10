@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Pabil 👋
 
-<!--
-**Pabz-10/Pabz-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+New grad SWE @ SFU · Full-stack & backend · Python, JavaScript, React · Open to new grad roles
 
-Here are some ideas to get you started:
+📍 Vancouver, BC &nbsp;|&nbsp; 🌐 [pabiladhikari.dev](https://pabiladhikari.dev) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/pabil)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+Python · JavaScript · C · C++ · React · Node.js · Flask · PyTorch · Git
+
+---
+
+## 🚀 Projects
+
+**[Discoverify](https://github.com/Pabz-10/Discoverify)** — Full-stack Spotify music recommendation app with a Node.js backend, Python Flask ML API, and a collaborative filtering model trained on 15,000 playlists. Deployed on Render.
+
+**[Ovarian Cancer Classifier](https://github.com/Pabz-10/Deep-Learning-Model-for-Ovarian-Cancer-Classification)** — Fine-tuned ResNet model trained on 25,000 medical images, achieving >99% validation accuracy.
+
+**[Protein Visualizer](https://github.com/Pabz-10/Protein-Visualizer)** — CLI tool for 3D protein structure visualization using PyMOL and the RCSB PDB API. Used by 10+ researchers.
+
+---
+
+## 📬 Get in touch
+
+pabil.adhikari11@gmail.com
