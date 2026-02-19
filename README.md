@@ -3,7 +3,7 @@ I'm Pabil Adhikari.
 
 **Who am I?**
 - New grad  BSc in Molecular Biology & Biochemistry + Certificate in Computing Science @ SFU 🎓
-- Prev. Undergraduate Researcher 🧪
+- Prev. Undergraduate Researcher @ Gries Lab 🧪
 - Now looking for new grad SWE roles 👨‍💻
 - Based in Vancouver, BC 🇨🇦
 
