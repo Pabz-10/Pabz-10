@@ -1,4 +1,4 @@
-### **MSCS** Canidate @ University of Colorado Boulder
+### **MSCS** **Candidate** @ University of Colorado Boulder
 
 Portfolio: [pabiladhikari.dev](https://pabiladhikari.dev)
 
